@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "slug": "bonbon-the-bunny",
+      "name": "Bonbon the Bunny",
+      "category": "Plushies",
+      "categorySlug": "plushies",
+      "price": 1299,
+      "originalPrice": 1499,
+      "rating": 5,
+      "reviewsCount": 28,
+      "image": "/images/bonbon-bunny.jpg",
+      "description": "Extra-soft cotton plush bunny handcrafted with hypoallergenic polyfill. Features a hand-stitched blush heart on its chest and cute floppy ears.",
+      "inStock": true,
+      "craftingNotice": "Handmade in small batches — please allow 5–7 days for your piece to ship.",
+      "specifications": [
+        {
+          "label": "Materials",
+          "value": "100% Combed Cotton Yarn, Hypoallergenic Polyester Filling"
+        },
+        {
+          "label": "Height",
+          "value": "22 cm (8.6 inches)"
+        },
+        {
+          "label": "Care",
+          "value": "Spot clean or gentle hand wash in cold water with mild soap. Lay flat to dry."
+        },
+        {
+          "label": "Safety",
+          "value": "Safety eyes securely attached with inner lock washers"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "2",
+      "slug": "rosie-granny-cardigan",
+      "name": "Rosie Granny Cardigan",
+      "category": "Wearables",
+      "categorySlug": "wearables",
+      "price": 3499,
+      "originalPrice": 3899,
+      "rating": 4.9,
+      "reviewsCount": 19,
+      "image": "/images/rosie-cardigan.jpg",
+      "description": "Handcrafted blush pink and cream granny square cardigan with delicate scallop edging and custom wooden buttons. Cozy, breathable, and timeless.",
+      "inStock": true,
+      "craftingNotice": "Handmade to order — please allow 7–10 days for custom stitching.",
+      "specifications": [
+        {
+          "label": "Materials",
+          "value": "100% Soft Cotton Cord Yarn"
+        },
+        {
+          "label": "Fit",
+          "value": "Relaxed oversized fit with dropped shoulders"
+        },
+        {
+          "label": "Sizes Available",
+          "value": "S (36\"), M (40\"), L (44\"), XL (48\")"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash cold, dry flat in shade. Do not tumble dry or hang while wet."
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "3",
+      "slug": "everyday-market-bag",
+      "name": "Everyday Market Bag",
+      "category": "Wearables",
+      "categorySlug": "wearables",
+      "price": 899,
+      "originalPrice": 1099,
+      "rating": 4.8,
+      "reviewsCount": 34,
+      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&q=80&w=800",
+      "description": "Sturdy open-weave cream cotton cord tote bag. Lightweight yet stretchable, designed to comfortably carry up to 8 kg of groceries, books, or essentials.",
+      "inStock": true,
+      "craftingNotice": "Handmade in small batches — ready to ship in 2–3 days.",
+      "specifications": [
+        {
+          "label": "Materials",
+          "value": "Double-stranded 100% Organic Cotton Cord"
+        },
+        {
+          "label": "Capacity",
+          "value": "Holds up to 8 kg (17.6 lbs)"
+        },
+        {
+          "label": "Dimensions",
+          "value": "38 cm x 40 cm (Handle drop: 28 cm)"
+        },
+        {
+          "label": "Care",
+          "value": "Machine washable in delicate mesh bag at 30°C."
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "4",
+      "slug": "little-lamb-booties",
+      "name": "Little Lamb Booties",
+      "category": "For Baby",
+      "categorySlug": "baby",
+      "price": 749,
+      "originalPrice": 899,
+      "rating": 5,
+      "reviewsCount": 15,
+      "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&q=80&w=800",
+      "description": "Soft baby-safe cotton booties with plush textured lamb cuffs and non-slip blush pink soles. Gentle ankle ribs keep them securely on tiny feet.",
+      "inStock": true,
+      "craftingNotice": "Handmade in small batches — please allow 3–5 days to ship.",
+      "specifications": [
+        {
+          "label": "Materials",
+          "value": "100% Ultra-Soft Baby Cotton Yarn"
+        },
+        {
+          "label": "Size",
+          "value": "Fits 0–6 Months (Sole length: 9.5 cm)"
+        },
+        {
+          "label": "Safety",
+          "value": "Zero hard buttons or loose beads"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash gently in lukewarm water."
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "5",
+      "slug": "heart-coaster-set",
+      "name": "Heart Coaster Set",
+      "category": "Home",
+      "categorySlug": "home",
+      "price": 499,
+      "originalPrice": 599,
+      "rating": 4.9,
+      "reviewsCount": 42,
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800",
+      "description": "Set of 4 double-thick crochet heart coasters in baby pink and cream. Comes with a matching drawstring cotton gift pouch.",
+      "inStock": true,
+      "craftingNotice": "In stock — ready to ship within 24 hours.",
+      "specifications": [
+        {
+          "label": "Quantity",
+          "value": "Set of 4 coasters (2 Pink, 2 Cream)"
+        },
+        {
+          "label": "Materials",
+          "value": "100% Recycled Cotton Thread"
+        },
+        {
+          "label": "Size",
+          "value": "12 cm x 11 cm per coaster"
+        },
+        {
+          "label": "Heat Resistance",
+          "value": "Protects wooden and glass tables up to 100°C"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "6",
+      "slug": "blush-scrunchie-trio",
+      "name": "Blush Scrunchie Trio",
+      "category": "Wearables",
+      "categorySlug": "wearables",
+      "price": 399,
+      "originalPrice": 499,
+      "rating": 4.9,
+      "reviewsCount": 51,
+      "image": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&q=80&w=800",
+      "description": "Trio of handcrafted crochet hair scrunchies in Blush Pink, Warm Cream, and Dusty Rose. Snag-free elastic core preserves hair health.",
+      "inStock": true,
+      "craftingNotice": "In stock — ready to ship within 24 hours.",
+      "specifications": [
+        {
+          "label": "Quantity",
+          "value": "3 Scrunchies (Blush, Cream, Rose)"
+        },
+        {
+          "label": "Materials",
+          "value": "Soft Microfiber Plush Yarn & Strong Elastic"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash or gentle machine wash"
+        }
+      ],
+      "featured": false
+    }
+  ],
+  "orders": [
+    {
+      "id": "KRN-46830",
+      "createdAt": "2026-10-04T11:17:55.884Z",
+      "customer": {
+        "name": "Aarav Patel",
+        "email": "aarav@example.com",
+        "phone": "9876543210",
+        "address": "123 Pink Lane",
+        "city": "Bangalore",
+        "pincode": "560038"
+      },
+      "items": [
+        {
+          "id": "1",
+          "slug": "bonbon-the-bunny",
+          "name": "Bonbon the Bunny",
+          "category": "Plushies",
+          "categorySlug": "plushies",
+          "price": 1299,
+          "originalPrice": 1499,
+          "rating": 5,
+          "reviewsCount": 28,
+          "image": "/images/bonbon-bunny.jpg",
+          "description": "Extra-soft cotton plush bunny handcrafted with hypoallergenic polyfill. Features a hand-stitched blush heart on its chest and cute floppy ears.",
+          "inStock": true,
+          "craftingNotice": "Handmade in small batches — please allow 5–7 days for your piece to ship.",
+          "specifications": [
+            {
+              "label": "Materials",
+              "value": "100% Combed Cotton Yarn, Hypoallergenic Polyester Filling"
+            },
+            {
+              "label": "Height",
+              "value": "22 cm (8.6 inches)"
+            },
+            {
+              "label": "Care",
+              "value": "Spot clean or gentle hand wash in cold water with mild soap. Lay flat to dry."
+            },
+            {
+              "label": "Safety",
+              "value": "Safety eyes securely attached with inner lock washers"
+            }
+          ],
+          "featured": true,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 2598,
+      "shipping": 0,
+      "total": 2598,
+      "paymentMethod": "Cash on Delivery",
+      "status": "Tucked In"
+    },
+    {
+      "id": "KRN-84920",
+      "createdAt": "2026-10-04T11:06:51.672Z",
+      "customer": {
+        "name": "Aarav Patel",
+        "email": "aarav@example.com",
+        "phone": "9876543210",
+        "address": "123 Pink Yarn Studio Lane, Indiranagar",
+        "city": "Bangalore",
+        "pincode": "560038"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "Bonbon the Bunny",
+          "price": 1299,
+          "quantity": 2,
+          "image": "/images/bonbon-bunny.jpg"
+        }
+      ],
+      "paymentMethod": "Cash on Delivery",
+      "subtotal": 2598,
+      "shipping": 0,
+      "total": 2598,
+      "status": "Tucked In"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "Sanya Malhotra",
+      "location": "Mumbai",
+      "rating": 5,
+      "date": "2 days ago",
+      "comment": "Bonbon the Bunny is even sweeter in real life! The yarn is insanely soft and the stitching is perfection. Packaged with so much love.",
+      "productName": "Bonbon the Bunny"
+    },
+    {
+      "id": "rev-2",
+      "author": "Priya Sharma",
+      "location": "Bangalore",
+      "rating": 5,
+      "date": "1 week ago",
+      "comment": "The Rosie Granny Cardigan is my favorite clothing item now. I get compliments everywhere I go. True handmade luxury!",
+      "productName": "Rosie Granny Cardigan"
+    },
+    {
+      "id": "rev-3",
+      "author": "Ananya Rao",
+      "location": "Delhi",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "comment": "Super fast delivery and the Market Bag holds so much weight without losing shape. Will definitely buy again for gifting.",
+      "productName": "Everyday Market Bag"
+    }
+  ],
+  "newsletters": []
+}
